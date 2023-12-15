@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "index",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#value-of-quarto_profile",
+    "href": "index.html#value-of-quarto_profile",
+    "title": "index",
+    "section": "value of QUARTO_PROFILE",
+    "text": "value of QUARTO_PROFILE\n\nSys.getenv(\"QUARTO_PROFILE\")\n\n[1] \"staging\""
+  },
+  {
+    "objectID": "index.html#value-of-cool_var",
+    "href": "index.html#value-of-cool_var",
+    "title": "index",
+    "section": "value of COOL_VAR",
+    "text": "value of COOL_VAR\n\nSys.getenv(\"COOL_VAR\")\n\n[1] \"staging\""
+  }
+]

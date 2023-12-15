@@ -1,0 +1,25 @@
+---
+title: "index"
+---
+
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## value of QUARTO_PROFILE
+```{r}
+Sys.getenv("QUARTO_PROFILE")
+```
+
+
+## value of COOL_VAR
+```{r}
+Sys.getenv("COOL_VAR")
+```
+
+
+::: {.content-hidden when-profile="staging"}
+This content will be hidden in the advanced profile
+:::
